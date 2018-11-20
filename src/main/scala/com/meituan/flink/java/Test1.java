@@ -32,8 +32,6 @@ public class Test1 {
         dataStream.print();
         env.execute("window wordCount");
         System.out.println("my first use it");
-
-
     }
 
 
@@ -45,6 +43,4 @@ public class Test1 {
             }
         }
     }
-
-
 }
